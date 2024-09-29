@@ -1,0 +1,26 @@
+#vid{
+    position: absolute;
+    top: 15%;
+    left: 15%;
+}
+h1{
+    position: absolute;
+    top: 45%;
+    left: 10%;
+    font-size:820%;
+     font-family:'Times New Roman', Times, serif ;
+}
+#i2{
+  position: absolute;
+    top: 100%;
+    
+}
+#tx1{
+color: white;
+position: absolute;
+top: 230%;
+left: 10%;
+right: 10%;
+ font-size: 120%;
+
+}

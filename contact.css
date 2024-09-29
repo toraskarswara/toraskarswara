@@ -1,0 +1,36 @@
+body{
+    background-color: #F1E5D1;
+   
+}
+h1{
+    color: black;
+    position: absolute;
+    top: 26%;
+    left: 37%;
+    font-size: 450%;
+}
+h2{
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 32%;
+    font-size: 200%;
+}
+#h3{
+    color: black;
+    position: absolute;
+    top: 55%;
+    left: 40%;
+    font-size: 200%;
+    
+}
+#h4{
+    color: black;
+    position: absolute;
+    top: 62%;
+    left: 37%;
+    font-size: 200%;
+    
+}
+
+

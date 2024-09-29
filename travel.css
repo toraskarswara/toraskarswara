@@ -1,0 +1,68 @@
+h1{
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 17%;
+    left: 24%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 450%;
+}
+body{
+    background-color: black;
+}
+hr.dashed {
+    border-top: 10px dashed white;
+  }
+  h3{
+    color: white;
+    font-family: "Dancing Script", cursive;
+    font-weight: 200px;
+  }
+  p{
+    font-family: "Dancing Script", cursive;
+    color: white;
+    font-size: 250%;
+    position: absolute;
+    top: 143%;
+    left: 53%;
+    right: 15%;
+  }
+  #t1{
+    font-family: "Dancing Script", cursive;
+    color: white;
+    font-size: 275%;
+    position: absolute;
+    top: 194%;
+    left: 65%;
+    right: 7%;
+
+
+  }
+  #dubai{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  #t2{
+    font-family: "Dancing Script", cursive;
+    color: white;
+    font-size: 255%;
+    position: absolute;
+    top: 282%;
+    left:7%;
+    right: 75%;
+
+
+  }
+
+#t3{
+    font-family: "Dancing Script", cursive;
+    color: white;
+    font-size: 250%;
+    position: absolute;
+    top: 277%;
+    left:75%;
+    right: 5%;
+
+}
